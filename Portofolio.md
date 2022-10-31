@@ -1,5 +1,5 @@
 layout:page
 title: "Portofolio" 
-permalink: /Portofolio/
+permalink: /Portofolio.md/
 
 Test Test Test
