@@ -1,6 +1,6 @@
 layout:page
 title: "Portofolio"
-permalink: /
+permalink: /Portofolio
 
 
 Test Test Test
